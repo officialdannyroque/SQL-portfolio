@@ -2,12 +2,12 @@
 
 ---
 
-### 🧾 Table 1: `customer_orders`
+### Table 1: `customer_orders`
 
 Upon observing the `customer_orders` table, we can see:
 
-- Missing values `''` and `'null'` in the `exclusions` column.
-- Missing values `''` and `'null'` in the `extras` column.
+- Query damaging strings `''` and `'null'` in the `exclusions` column.
+- Query damaging strings `''` and `'null'` in the `extras` column.
 
 #### 📊 Result set before removing null values:
 
@@ -32,8 +32,8 @@ Upon observing the `customer_orders` table, we can see:
 
 To clean this data, we will:
 
-- ✅ Create a temporary table with all the columns.
-- ✅ Replace `''` and `'null'` values in `exclusions` and `extras` with actual `NULL`.
+- Create a temporary table with all the columns.
+- Replace `''` and `'null'` values in `exclusions` and `extras` with actual `NULL`.
 
 ```sql
 CREATE TEMP TABLE temp_customer_orders AS
@@ -69,7 +69,7 @@ SELECT * FROM temp_customer_orders;
 
 ---
 
-### 🧾 Table 2: `runner_orders`
+### Table 2: `runner_orders`
 
 The `runner_orders` table contains important delivery data but includes messy values that must be cleaned before analysis.
 
