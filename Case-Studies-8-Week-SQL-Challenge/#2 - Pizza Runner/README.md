@@ -41,7 +41,7 @@ The Pizza Runner case study includes 6 tables:
 
 ---
 
-## 📈 Case Study Solutions
+## Case Study Solutions
 
 **0. Data Cleaning**
 
