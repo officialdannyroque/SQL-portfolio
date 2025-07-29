@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Introduction
+## Introduction
 
 While diving deep into SQL and business analytics, I came across a fictional startup that instantly grabbed my attention: **Pizza Runner** – a retro-themed pizza delivery service with a startup twist. The concept wasn’t just pizza, but pizza with a platform-based model (think Uber for pizza).
 
@@ -22,7 +22,7 @@ As someone who’s passionate about startups, strategy, and data, I found this c
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 The Pizza Runner case study includes 6 tables:
 
@@ -37,7 +37,7 @@ The Pizza Runner case study includes 6 tables:
 
 ## 🔗 Entity Relationship Diagram
 
-![ERD](insert-erd-image-link-here)
+![ERD](https://github.com/user-attachments/assets/32ef927d-28fc-4c96-a4a0-bad4488c7e7f))
 
 ---
 
@@ -64,7 +64,7 @@ Practice insert, update, and delete operations.
 
 ## 🔗 Relevant Links
 
-- [Entity Relationship Diagram on dbdiagram.io](https://dbdiagram.io/)
+- [Entity Relationship Diagram on dbdiagram.io](https://dbdiagram.io/d/Pizza-Runner-5f3e085ccf48a141ff558487?utm_source=dbdiagram_embed&utm_medium=bottom_open)
 
 ---
 
