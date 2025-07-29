@@ -1,6 +1,6 @@
 # 🍕 Case Study #2: Pizza Runner
 
-![Pizza Runner Banner](insert-image-link-here)
+![Pizza Runner Banner](https://github.com/user-attachments/assets/350710cf-08fd-4f59-9cea-f4d4aadc5767)
 
 ## 📚 Table of Contents
 
