@@ -2,7 +2,7 @@
 
 ![Pizza Runner Banner](https://github.com/user-attachments/assets/350710cf-08fd-4f59-9cea-f4d4aadc5767)
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
@@ -35,7 +35,7 @@ The Pizza Runner case study includes 6 tables:
 
 ---
 
-## 🔗 Entity Relationship Diagram
+## Entity Relationship Diagram
 
 ![ERD](https://github.com/user-attachments/assets/32ef927d-28fc-4c96-a4a0-bad4488c7e7f))
 
@@ -62,19 +62,19 @@ Practice insert, update, and delete operations.
 
 ---
 
-## 🔗 Relevant Links
+## Relevant Links
 
 - [Entity Relationship Diagram on dbdiagram.io](https://dbdiagram.io/d/Pizza-Runner-5f3e085ccf48a141ff558487?utm_source=dbdiagram_embed&utm_medium=bottom_open)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! Fork the repo and open a PR if you’d like to add improvements or alternate approaches.
 
 ---
 
-## 🙋‍♂️ Support
+## Support
 
 Have a question or want to discuss my approach?  
 Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/officialdannyroque/) — I'm always up for exchanging ideas on analytics, SQL, and startups.
