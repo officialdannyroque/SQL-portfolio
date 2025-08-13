@@ -10,7 +10,7 @@
   - [Dataset](#dataset)
   - [Case Study Solutions](#case-study-solutions)
   - [Contributing](#contributing)
-  - [Support](#support) 
+  - [Support](#support)  
   
 
 ## Introduction
