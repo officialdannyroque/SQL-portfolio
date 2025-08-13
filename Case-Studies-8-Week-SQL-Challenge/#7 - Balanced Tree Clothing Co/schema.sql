@@ -4,7 +4,7 @@ CREATE TABLE balanced_tree.product_hierarchy (
   "id" INTEGER,
   "parent_id" INTEGER,
   "level_text" VARCHAR(19),
-  "level_name" VARCHAR(8)
+  "level_name" VARCHAR(8) 
 );
 
 INSERT INTO balanced_tree.product_hierarchy
